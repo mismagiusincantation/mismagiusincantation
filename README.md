@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/FGW02x675rUAAAAd/touhou-aya.gif"/>
+  <img src="https://media.tenor.com/n-INLbzs93AAAAAi/touhou-yukkuri.gif"/>
 </p>
 <p align="center">
-<a href="https://youtu.be/duBfMAkoVQI">watch them dance in 1080p</a>!
+<a href="https://youtu.be/duBfMAkoVQI">take it easy</a>!
 </p>

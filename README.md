@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://graphic.neocities.org/tumblr_inline_p25lm5dKtb1ux8fd4_500.gif"/>
+  <img src="https://media1.tenor.com/m/FGW02x675rUAAAAd/touhou-aya.gif"/>
 </p>
 <p align="center">
-<a href="https://youtu.be/QwquipMpsiQ">take it easy</a>!
+<a href="https://youtu.be/duBfMAkoVQI">watch them dance in 1080p</a>!
 </p>

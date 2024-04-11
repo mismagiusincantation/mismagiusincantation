@@ -12,8 +12,8 @@
 <a href="https://litterbox.catbox.moe">litterbox.catbox.moe</a> for temporary file hosting.
 </p>
 <p align="center">
-these are just a few suggestions, you can find alternatives if needed, just stop using discord to host images please and thank you!
+these are just a few suggestions, you can find alternatives if you'd prefer to use another service, just stop using discord to host images please and thank you!
 </p>
 <p align="center">
-<i>(and a small side note, i'll take this off of this repository soon. i only want this to become common knowledge).</i>
+<i>(small side note, i'll take this information off of this repository soon. i only want this to become common knowledge).</i>
 </p>
